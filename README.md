@@ -19,6 +19,8 @@ The documentation will grow into a practical, carefully maintained reference cov
 
 This documentation is intended to provide a verifiable technical reference while distinguishing confirmed information from investigation and interpretation.
 
+The companion [`openkeiko-fw`](https://github.com/openkeiko/openkeiko-fw) repository contains the experimental MicroPython firmware and hardware-control demonstration built from these references.
+
 ## Documentation
 
 - [FW1 hardware overview](docs/hardware-overview.md)
